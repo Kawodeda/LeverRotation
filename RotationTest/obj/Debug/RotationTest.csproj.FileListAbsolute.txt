@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\RotationTest\RotationTest\bin\Debug\RotationTest.exe.config
+C:\Users\1\source\repos\RotationTest\RotationTest\bin\Debug\RotationTest.exe
+C:\Users\1\source\repos\RotationTest\RotationTest\bin\Debug\RotationTest.pdb
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.Form1.resources
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.Properties.Resources.resources
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.csproj.GenerateResource.cache
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.exe
+C:\Users\1\source\repos\RotationTest\RotationTest\obj\Debug\RotationTest.pdb
